@@ -10,3 +10,4 @@ source("cleanup.R")
 set.seed(2000)
 players <- read_csv(players_url)
 head(players)
+players
